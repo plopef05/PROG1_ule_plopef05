@@ -1,0 +1,24 @@
+1.Armario https://dle.rae.es/armario?m=form
+2.Silla https://dle.rae.es/silla?m=form
+3.Repositorio https://dle.rae.es/repositorio?m=form
+4.Escriba https://dle.rae.es/escriba?m=form
+5.Limonero https://dle.rae.es/limonero?m=form
+6.Caballo https://dle.rae.es/caballo?m=form
+7.Ferrocarril https://dle.rae.es/ferrocarril?m=form
+8.Guillotina https://dle.rae.es/guillotina?m=form
+9.Persiana https://dle.rae.es/persiana?m=form
+10.Coco https://dle.rae.es/coco?m=form
+
+11.zapatilla -https://dle.rae.es/zapatilla
+12.artefacto -https://dle.rae.es/artefacto?m=form
+13.manuscrito -https://dle.rae.es/manuscrito?m=form
+14.silla -https://dle.rae.es/silla?m=form
+15.zalamero -https://dle.rae.es/zalamero?m=form
+16.torre -https://dle.rae.es/torre?m=form
+17.ordenador -https://dle.rae.es/ordenador?m=form
+18.botella -https://dle.rae.es/botella?m=form
+19.ratón -https://dle.rae.es/rat%C3%B3n?m=form
+20.palero -https://dle.rae.es/palero?m=form
+
+
+
